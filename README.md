@@ -1,4 +1,4 @@
-# vue-corse
+# vue-course
 
 ## Project setup
 ```
